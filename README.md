@@ -9,7 +9,7 @@
 - CraftyJS - http://craftyjs.com/api/
 - Amazon AWS - Amazon S3 for hosting
 - CircleCI for build and deployment
-- All assets created and developed using [Procreate](https://apps.apple.com/us/app/procreate/id425073498) for iPad 
+- All 2D assets created and developed using [Procreate](https://apps.apple.com/us/app/procreate/id425073498) for iPad 
 
 ## Links
 - Game Jam entry: https://ldjam.com/events/ludum-dare/48/esophagus-incryption
